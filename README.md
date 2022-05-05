@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balgovind Tripathi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+<Img aling="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/vector-illustration-app-development-flat-line-561739345">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balgovind111&label=Profile%20views&color=0e75b6&style=flat" alt="balgovind111" /> </p>
 
